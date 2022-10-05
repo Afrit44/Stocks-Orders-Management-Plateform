@@ -1,0 +1,15 @@
+# ===============================
+# = Database Configuration Via MySQL
+# ===============================
+
+url: jdbc:mysql://localhost:3306/StockOrderDB?autoReconnect=true&useSSL=false
+username: root
+password: root
+
+# ===============================
+# = Folder's Path
+# ===============================
+
+stocks_new: stocksManagement/stocks_new/
+stocks_processed: stocksManagement/stocks_processed/
+testJSONFile: JSON/
