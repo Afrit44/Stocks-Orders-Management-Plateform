@@ -1,0 +1,13 @@
+{
+  "client_name":"AFRIT",
+  "items":[
+    {
+      "product_id":1,
+      "quantity":3
+    },
+    {
+      "product_id":5,
+      "quantity":6
+    }
+  ]
+}
